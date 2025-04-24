@@ -1,0 +1,1 @@
+﻿{"ANC_ErrorMsg":"Error in copying from Laundry father: 1LM073 or 1LU41M please check logs for details","ANC_IntCode":null,"ANC_MsgStatus":"KO","ANC_Pnc":"","ANC_UidTimestamp":"20250424112646898","ANC_eComStatus":"0"}
